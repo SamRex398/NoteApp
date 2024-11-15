@@ -65,7 +65,7 @@ const AddEditNotes = ({ noteData, type, onclose }) => {
             <button
                 className='btn-primary font-medium mt-5 p-3'
                 onClick={handleAddNote}
-            >
+            > 
                 ADD
             </button>
         </div>
